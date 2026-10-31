@@ -1,16 +1,42 @@
-## Hi there 👋
+# About Me
 
-<!--
-**usingaopang-prog/usingaopang-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Opang Usinga**, a 21-year-old IT student currently studying **Information Technology** at **Richfield**.
 
-Here are some ideas to get you started:
+I have a strong passion for technology and enjoy keeping up with the latest trends and innovations in the digital world. I am especially interested in **software development**, **artificial intelligence**, and other exciting areas of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning, exploring new ideas, and expanding my knowledge in the ever-evolving tech industry.
+
+---
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Name** | Opang Usinga |
+| **Age** | 21 |
+| **Field of Study** | Information Technology |
+| **Institution** | Richfield |
+| **Interests** | Software Development, Artificial Intelligence, Emerging Technologies |
+
+---
+
+## Tech Badges
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
+---
+
+## What Drives Me
+
+- A deep curiosity for how technology shapes the modern world
+- A commitment to continuous learning and self-improvement
+- A focus on building practical skills in software development and AI
+- A passion for staying ahead of trends in the fast-moving tech industry
+
+---
+
+> "The best way to predict the future is to invent it." — Alan Kay
