@@ -8,18 +8,6 @@ I love learning, exploring new ideas, and expanding my knowledge in the ever-evo
 
 ---
 
-## Quick Facts
-
-| | |
-|---|---|
-| **Name** | Opang Usinga |
-| **Age** | 21 |
-| **Field of Study** | Information Technology |
-| **Institution** | Richfield |
-| **Interests** | Software Development, Artificial Intelligence, Emerging Technologies |
-
----
-
 ## Tech Badges
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
