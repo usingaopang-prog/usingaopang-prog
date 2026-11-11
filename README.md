@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm **Opang Usinga**, a IT student currently studying **Information Technology** at **Richfield**.
+Hello! I'm **Opang Usinga**, an IT student currently studying **Information Technology** at **Richfield**.
 
 I have a strong passion for technology and enjoy keeping up with the latest trends and innovations in the digital world. I am especially interested in **software development**, **artificial intelligence**, and other exciting areas of technology.
 
